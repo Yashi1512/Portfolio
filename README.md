@@ -42,5 +42,6 @@ SNAPSORTS
 <img width="948" alt="image" src="https://github.com/user-attachments/assets/4c601de5-c522-40f1-a2f6-5adf205cd6f3">
 
 
-<img width="960" alt="image" src="https://github.com/user-attachments/assets/27d9c987-eee2-40bf-8aff-d6e22eea322d">
+![Screenshot 2024-12-07 222407](https://github.com/user-attachments/assets/09a2cd87-0775-4dfe-9628-2db27c43aa74)
+
 
