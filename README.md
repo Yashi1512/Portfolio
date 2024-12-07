@@ -40,7 +40,8 @@ SNAPSORTS
 
 
 
-![Uploading Screenshot 2024-12-07 222029.png…]()
+![Screenshot 2024-12-07 222029](https://github.com/user-attachments/assets/ab246053-428a-49df-84e9-dd25c22ae19b)
+
 
 
 
